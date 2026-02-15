@@ -1,0 +1,4 @@
+[10, 'RS', 45.67, (2+3j), True]
+(10, 'TS', 45.67)
+{100, 'Numpy', 'Travis', 'Pandas', 45.67}
+{100: 'Travis', 200: 'Numpy', 300: 'Pandas', 400: 'Arjun'}

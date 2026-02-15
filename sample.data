@@ -1,0 +1,49 @@
+HYD is the capital of Ts.
+The students are not studing well.
+Please students read python notes.
+To get a job in computer science.
+Competition is very hard dear.
+HYD is the capital of Ts.
+The students are not studing well.
+Please students read python notes.
+To get a job in computer science.
+Competition is very hard dear.
+Most precious thing is you time students.
+So don't waste it on others
+Travis is the founder of numpy module
+Learning python datatypes is soo easy.
+I have learned all the concepts of function in python.
+
+#Write a python program which will accept the data dynamically from the keyboard and write it to the file
+#DynamicFileWriteEx1.py
+print("Enter the data from the keyboard Press @ to stop!")
+with open("hyd.data","a") as fp:
+    while(True):
+        kbdata=input()
+        if(kbdata!="@"):
+            fp.write(kbdata+"\n")
+        else:
+            print("Data written to the file ----verified")
+            break#This program demonstrate how to open the file..
+
+#FileOpenEx1.py
+try:
+    fp=open("Kvr1.data","r") #"r" mode read the data only
+    print("type of fp=",type(fp))
+    print("File opened in read mode successfully..")
+except FileNotFoundError:
+    print("File does not exist")#Program for Demonstrating obtaining the file properties
+    
+#FilePropertiesEx4.py
+try:
+    with open("Kvr5.data","x+") as fp:
+        print("======================================")
+        print("Name of the file=",fp.name) #Name is an attribute of file pointer(fp) object.
+        print("File Mode=",fp.mode) #Mode is an attribute of file pointer(fp) obbject
+        print("Is this file readable?=",fp.readable()) #Here readable() is an function
+        print("Is this file writable?=",fp.writable()) #Here writeable() is an function
+        print("Is this file is closed?=",fp.closed) #Here closed is an attribute..
+        print("======================================")
+    print("Out off with open()as ======Is this closed?",fp.closed)
+except FileExistsError:
+    print("Specified file name already existed..")

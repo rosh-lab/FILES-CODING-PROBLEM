@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e6dbec93-cba0-4a26-ac1e-b496cc08c616" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kvr1.data" beforeDir="false" afterPath="$PROJECT_DIR$/Kvr1.data" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,52 +23,65 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "rosh-lab"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rosh-lab&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/rosh-lab/FILES-CODING-PROBLEM.git",
-    "accountId": "41adfafe-8022-4bd1-b982-c11a0bacbb88"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rosh-lab/FILES-CODING-PROBLEM.git&quot;,
+    &quot;accountId&quot;: &quot;41adfafe-8022-4bd1-b982-c11a0bacbb88&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="326RnPFVFt58oZOHwuv33JNG1TZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.FileCopyEx1.executor": "Run",
-    "Python.FileCountInfo.executor": "Run",
-    "Python.FileOpenEx1.executor": "Run",
-    "Python.FileOpenEx2.executor": "Run",
-    "Python.FileOpenEx3.executor": "Run",
-    "Python.FileOpenEx4.executor": "Run",
-    "Python.FilePropertiesEx1.executor": "Run",
-    "Python.FilePropertiesEx2.executor": "Run",
-    "Python.FilePropertiesEx3.executor": "Run",
-    "Python.FilePropertiesEx4.executor": "Run",
-    "Python.ImageFileCopyEx.executor": "Run",
-    "Python.RandomAccessFileEx1.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "git-widget-placeholder": "master",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.DynamicFileWriteEx1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FileAlphabetsOnly.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FileCopyEx1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FileCountInfo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FileOpenEx1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FileOpenEx2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FileOpenEx3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FileOpenEx4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FilePropertiesEx1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FilePropertiesEx2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FilePropertiesEx3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FilePropertiesEx4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FileReadEx1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FileReadEx2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FileReadEx3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FileWriteEx1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FileWriteEx2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FileWriteEx3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FileWriteEx4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ImageFileCopy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ImageFileCopyEx.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RandomAccessFileEx1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Files" />
@@ -115,7 +129,9 @@
       <workItem from="1771001484220" duration="20000" />
       <workItem from="1771001552636" duration="661000" />
       <workItem from="1771002247895" duration="3273000" />
-      <workItem from="1771041923925" duration="377000" />
+      <workItem from="1771041923925" duration="17329000" />
+      <workItem from="1771071429150" duration="7000" />
+      <workItem from="1771079520475" duration="2855000" />
     </task>
     <servers />
   </component>
@@ -134,14 +150,27 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/FILES$FileOpenEx4.coverage" NAME="FileOpenEx4 Coverage Results" MODIFIED="1771003211031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FILES$FileWriteEx1.coverage" NAME="FileWriteEx1 Coverage Results" MODIFIED="1771054617767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FILES$FileWriteEx4.coverage" NAME="FileWriteEx4 Coverage Results" MODIFIED="1771056322282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FILES$FilePropertiesEx2.coverage" NAME="FilePropertiesEx2 Coverage Results" MODIFIED="1771004659006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/FILES$FileOpenEx1.coverage" NAME="FileOpenEx1 Coverage Results" MODIFIED="1771002678253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/FILES$FilePropertiesEx1.coverage" NAME="FilePropertiesEx1 Coverage Results" MODIFIED="1771004163154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/FILES$main.coverage" NAME="main Coverage Results" MODIFIED="1771042040346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FILES$FileReadEx2.coverage" NAME="FileReadEx2 Coverage Results" MODIFIED="1771060885643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FILES$FileCopyEx1.coverage" NAME="FileCopyEx1 Coverage Results" MODIFIED="1771063468381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FILES$main.coverage" NAME="main Coverage Results" MODIFIED="1771079664034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FILES$FileOpenEx3.coverage" NAME="FileOpenEx3 Coverage Results" MODIFIED="1771002983421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FILES$FilePropertiesEx3.coverage" NAME="FilePropertiesEx3 Coverage Results" MODIFIED="1771005061459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FILES$ImageFileCopy.coverage" NAME="ImageFileCopy Coverage Results" MODIFIED="1771064498388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FILES$FileOpenEx2.coverage" NAME="FileOpenEx2 Coverage Results" MODIFIED="1771002570303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/FILES$FilePropertiesEx4.coverage" NAME="FilePropertiesEx4 Coverage Results" MODIFIED="1771042357740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FILES$FilePropertiesEx4.coverage" NAME="FilePropertiesEx4 Coverage Results" MODIFIED="1771042480927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FILES$FileAlphabetsOnly.coverage" NAME="FileAlphabetsOnly Coverage Results" MODIFIED="1771071026116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FILES$FileWriteEx3.coverage" NAME="FileWriteEx3 Coverage Results" MODIFIED="1771054890306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FILES$RandomAccessFileEx1.coverage" NAME="RandomAccessFileEx1 Coverage Results" MODIFIED="1771086686004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FILES$FileOpenEx4.coverage" NAME="FileOpenEx4 Coverage Results" MODIFIED="1771003211031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FILES$FileOpenEx1.coverage" NAME="FileOpenEx1 Coverage Results" MODIFIED="1771002678253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FILES$FileReadEx3.coverage" NAME="FileReadEx3 Coverage Results" MODIFIED="1771061651407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FILES$FilePropertiesEx1.coverage" NAME="FilePropertiesEx1 Coverage Results" MODIFIED="1771004163154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FILES$FileWriteEx2.coverage" NAME="FileWriteEx2 Coverage Results" MODIFIED="1771054750738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FILES$DynamicFileWriteEx1.coverage" NAME="DynamicFileWriteEx1 Coverage Results" MODIFIED="1771059323817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FILES$FileReadEx1.coverage" NAME="FileReadEx1 Coverage Results" MODIFIED="1771059355153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FILES$FileCountInfo.coverage" NAME="FileCountInfo Coverage Results" MODIFIED="1771066711630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
